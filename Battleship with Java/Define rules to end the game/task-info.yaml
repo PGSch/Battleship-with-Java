@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/35308#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 25 Sep 2024 17:58:50 UTC"
+record: 5

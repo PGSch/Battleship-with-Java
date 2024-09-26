@@ -1,0 +1,15 @@
+type: edu
+custom_name: Implement the "fog of war" feature
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/35307#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 25 Sep 2024 16:15:23 UTC"
+record: 4
